@@ -47,7 +47,10 @@ m4/lt~obsolete.m4
 # can automatically generate from config.status script
 # (which is called by configure script))
 Makefile
+<<<<<<< HEAD
 
 
 # node
 node_modules
+=======
+>>>>>>> e8cd2d18c0125b2398a6b64fe27a9cef0a354261
